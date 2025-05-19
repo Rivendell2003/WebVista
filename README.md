@@ -27,3 +27,13 @@ gradle.properties: Configuración de propiedades de Gradle.
 gradlew y gradlew.bat: Scripts para ejecutar Gradle en sistemas Unix y Windows, respectivamente.
 
 settings.gradle.kts: Configuración del proyecto.
+
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la Licencia Creative Commons Atribución 4.0 Internacional. Esto significa que puedes compartir y adaptar el material para cualquier propósito, incluso comercialmente, siempre y cuando otorgues el crédito adecuado al autor original.
+
+Más información sobre esta licencia en: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+![Licencia: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)
+
